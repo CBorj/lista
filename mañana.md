@@ -2,5 +2,5 @@
 
 - [x] Hacer manual
 - [ ] Apuntarse a inglés
-- [x ] Calendar el curso de Azure
+- [x] Calendar el curso de Azure
 - [ ] Renovar certificación
